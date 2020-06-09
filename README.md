@@ -22,7 +22,6 @@ npm run lint
 ### Install all dependences in node 
 ```
 npm install express
-npm install path
 npm install body-parser
 npm install fs
 ```
