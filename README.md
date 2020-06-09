@@ -33,9 +33,9 @@ node app.js
 ```
 
 ### Link
-```
+
 link to [http://localhost:3000/](http://localhost:3000/) 
-```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
